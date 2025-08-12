@@ -1,0 +1,1395 @@
+[
+  {
+    "question": "What are primary and secondary metabolites? Illustrate its application in the fermentation industry.",
+    "answer": "Primary metabolites (e.g., amino acids, ethanol) are essential for microbial growth; secondary metabolites (e.g., antibiotics) are non-essential but have high added value. Streptomyces produces streptomycin as a secondary metabolite."
+  },
+  {
+    "question": "What are the common types of microorganisms used in industrial fermentation? Give an example of each application.",
+    "answer": "Yeast (ethanol production), E. coli (recombinant proteins), Bacillus subtilis (enzyme preparations), Aspergillus (citric acid)."
+  },
+  {
+    "question": "What is the main difference between batch fermentation and continuous fermentation?",
+    "answer": "Batch fermentation for one-time feeding, product cycle is clear; continuous fermentation for continuous feeding and discharging, steady-state operation efficiency is high."
+  },
+  {
+    "question": "What is the mechanism of the effect of dissolved oxygen concentration (DO) on aerobic fermentation?",
+    "answer": "Too low a DO restricts microbial respiration, causing metabolism to shift to byproducts; too high a DO may trigger oxidative stress."
+  },
+  {
+    "question": "How does Fed-Batch increase product yield?",
+    "answer": "The substrate concentration is maintained below the inhibition threshold by dynamic feeding to extend the logarithmic growth period."
+  },
+  {
+    "question": "What are some common types of on-line sensors for fermentation process monitoring?",
+    "answer": "pH electrode, dissolved oxygen probe, exhaust gas analyzer (CO ₂/O ₂), biomass turbidimeter."
+  },
+  {
+    "question": "How to transform yeast to produce artemisic acid with CRISPR-Cas9 technology?",
+    "answer": "Knock out competitive pathway genes such as ERG9, overexpressing artemisinin synthase."
+  },
+  {
+    "question": "What is metabolic flux analysis (MFA)? What is its role in strain optimization?",
+    "answer": "The MFA directs gene editing by calculating the metabolite flux distribution and identifying the rate-limiting step."
+  },
+  {
+    "question": "What are the advantages of synthetic microbial co-culture systems in fermentation?",
+    "answer": "Share the metabolic burden and achieve complex product synthesis (such as separating cellulosic decomposition and ethanol production into different strains)."
+  },
+  {
+    "question": "What are the cell disruption methods commonly used in industrial fermentation?",
+    "answer": "High pressure homogenization, ultrasound, enzymatic hydrolysis (e.g. lysozyme)."
+  },
+  {
+    "question": "Application scenarios of membrane separation technology in product purification?",
+    "answer": "Ultrafiltration is used for protein concentration, reverse osmosis desalination, and microfiltration to clarify the fermentation broth."
+  },
+  {
+    "question": "What are the factors influencing the design of the fermenter due to the amplification effect (Scale-Up)?",
+    "answer": "The mixing efficiency, oxygen transfer rate (OTR), and shear force differences need to be adjusted by geometric similarity calculation."
+  },
+  {
+    "question": "How can mixed fermentation be used to improve lignocellulose conversion efficiency?",
+    "answer": "Fungi (such as Trichoderma) produce cellulase pretreatment, and yeast simultaneous saccharification fermentation produces ethanol."
+  },
+  {
+    "question": "The principles and products of Microbial Electrosynthesis?",
+    "answer": "Using electroactive microorganisms to convert CO ₂ into acetic acid, butanol, etc."
+  },
+  {
+    "question": "What are the key process parameters for solid state fermentation to produce fungal spores?",
+    "answer": "Humidity (60-70%), temperature (25-30°C), matrix porosity."
+  },
+  {
+    "question": "Yeast strains commonly used in industrial fermentation and their applications?",
+    "answer": "Saccharomyces cerevisiae (ethanol, bread), Pichia pastoris (recombinant protein), Candida (single cell protein)."
+  },
+  {
+    "question": "What is Strictly Anaerobic? to illustrate its role in fermentation.",
+    "answer": "Microorganisms that can only be grown in anaerobic conditions, such as methanogens, are used for biogas production."
+  },
+  {
+    "question": "What does bacterial spore formation mean for the fermentation industry?",
+    "answer": "Strengthens bacterial resistance to stress and facilitates preservation and inoculation (e.g. Bacillus subtilis production of enzyme preparations)."
+  },
+  {
+    "question": "how does pH regulation affect lactic acid fermentation?",
+    "answer": "Maintaining pH 5.5-6.0 prevents lactic acid bacteria from self-suppressing and improves conversion."
+  },
+  {
+    "question": "How does the stirring rate in the fermenter affect the oxygen transfer coefficient (kLa)?",
+    "answer": "The agitation rate↑→ turbulence enhances kLa→↑, but too high can cause shear damage."
+  },
+  {
+    "question": "Advantages and disadvantages of high temperature fermentation and applicable scenarios?",
+    "answer": "Advantages: Inhibits miscellaneous bacteria and reduces cooling costs; Disadvantages: The heat resistance of the strain is high. It is used for the production of cellulase by thermophiles."
+  },
+  {
+    "question": "How can the metabolic pathway be optimized to increase lysine production in E. coli?",
+    "answer": "Overexpression of dapA gene (aspartate kinase), release of feedback inhibition."
+  },
+  {
+    "question": "What is the “cell factory” concept? Example.",
+    "answer": "Genetically engineered microorganisms are designed as synthetic platforms for specific products, such as yeast to synthesize artemisic acid."
+  },
+  {
+    "question": "Application of promoter engineering in metabolic regulation?",
+    "answer": "Dynamic control of gene expression using inducible promoters, such as pBAD, balances growth with product synthesis."
+  },
+  {
+    "question": "Principle of aqueous two phase extraction (ATPs) and applicable products?",
+    "answer": "Phase-selective partitioning of targets using polymer/salt solutions is commonly used for protein purification."
+  },
+  {
+    "question": "Solution for concentration difference polarization during membrane filtration?",
+    "answer": "Improve the flow rate, pulse backwash, and optimize the hydrophilicity of the membrane surface."
+  },
+  {
+    "question": "The role of freeze-drying in the preservation of fermentation products?",
+    "answer": "Low temperature dehydration maintains biological activity and is used for preservation of probiotic preparations and enzyme preparations."
+  },
+  {
+    "question": "A key process breakthrough in the industrial production of penicillin?",
+    "answer": "Deep tank fermentation technology and feeding strategy control the concentration of phenylacetic acid (jointly developed by the United Kingdom and the United States during World War II)."
+  },
+  {
+    "question": "How is waste glycerin used to produce 1,3-propanediol?",
+    "answer": "Klebsiella is converted through the glycerol dehydratase pathway to control 3-hydroxypropionaldehyde toxicity."
+  },
+  {
+    "question": "What is the microbial community composition of solid-state fermentation to produce soy sauce?",
+    "answer": "Aspergillus oryzae (starch hydrolysis), yeast (alcohol fermentation), lactic acid bacteria (acid-producing)."
+  },
+  {
+    "question": "How can artificial intelligence optimize the fermentation process?",
+    "answer": "Machine learning predicts optimal feeding times and neural networks model metabolic pathways (such as the SynBioCAD platform)."
+  },
+  {
+    "question": "Advantages of synthetic microbial communities in biogas production?",
+    "answer": "The division of labor degrades cellulose, produces acid, produces methane, and improves the utilization rate of substrates."
+  },
+  {
+    "question": "Potential application scenarios for cell-free fermentation systems?",
+    "answer": "In vitro enzymes catalyze the synthesis of toxic or complex products (such as paclitaxel precursors)."
+  },
+  {
+    "question": "The main source of carbon footprint in the fermentation industry?",
+    "answer": "Steam sterilization energy consumption (40-60%), raw material transportation, wastewater treatment."
+  },
+  {
+    "question": "How can fermentation costs be reduced through a circular economy?",
+    "answer": "Bacterial dregs are used as animal feed, and CO ₂ capture is used for microalgae culture."
+  },
+  {
+    "question": "Water reuse technology in the fermentation industry?",
+    "answer": "Membrane bioreactor (MBR), reverse osmosis (RO) combination process."
+  },
+  {
+    "question": "Requirements for fermentation strains for gras certification?",
+    "answer": "No pathogenicity, no toxin production, genetic stability."
+  },
+  {
+    "question": "Biosafety precautions for gene-edited strains?",
+    "answer": "Knock out essential genes (nutritional deficiency type), physical isolation (BSL-2 laboratory)."
+  },
+  {
+    "question": "Testing criteria for endotoxins in fermented products?",
+    "answer": "LAL Test, limit according to use (e.g., injection grade < 0.25 EU/mL)."
+  },
+  {
+    "question": "Advantages and limitations of gas-lift fermentation tanks compared to mechanical stirring tanks?",
+    "answer": "Advantages: low shear force, energy saving; limitations: low oxygen transfer efficiency. Suitable for high viscosity fermentation of fungi (e.g. Ganoderma lucidum polysaccharide production)."
+  },
+  {
+    "question": "Innovative application of microfluidic chips in fermentation process research?",
+    "answer": "Dynamic tracking of single-cell metabolism is achieved to optimize high-density culture conditions (e.g., insulin production by E. coli)."
+  },
+  {
+    "question": "How is the fermentation and separation process coupled through a membrane bioreactor (MBR)?",
+    "answer": "Remove inhibitory metabolites (such as butanol) in real time to increase the final product concentration."
+  },
+  {
+    "question": "The special value of halophiles in industrial fermentation?",
+    "answer": "Tolerant to high-salt environments (reducing the risk of infection) for carotenoid production."
+  },
+  {
+    "question": "How to synthesize high-temperature resistant enzymes using deep-sea hydrothermal strains?",
+    "answer": "Screening of hyperthermophilic archaea such as Pyrococcus improves the thermal stability of amylases through directed evolution."
+  },
+  {
+    "question": "Fermentation process parameters of acidophilic bacteria in metal leaching biometallurgy?",
+    "answer": "acidithiobacillus oxidation activity was promoted by adding Fe ² to pH 1.5-2.0 and temperature 30-45 °C."
+  },
+  {
+    "question": "How does the Quorum Sensing system dynamically control product synthesis?",
+    "answer": "Self-induced signaling molecules, such as AHL, are utilized to trigger gene circuits that delay product expression to the high biomass stage (Gupta et al., 2017, Nat Chem Biol)."
+  },
+  {
+    "question": "Application case of light control gene switch in cyanobacteria fermentation?",
+    "answer": "Blue light activates the promoter to regulate the butanol synthesis pathway to achieve precise temporal and spatial control."
+  },
+  {
+    "question": "Thermometer design principles for metabolite response?",
+    "answer": "Temperature-sensitive RNA structures regulate translation initiation for dynamically balanced growth and product synthesis."
+  },
+  {
+    "question": "Key pretreatment steps for the production of polyhydroxyalkanoate (PHA) from kitchen waste?",
+    "answer": "Damp heat treatment degrades the oil, and acid/enzyme hydrolysis increases the content of fermentable sugars."
+  },
+  {
+    "question": "How is formic acid produced by microbial electrosynthesis (MES) using CO ₂ exhaust gas?",
+    "answer": "Sporomusa ovata reduces CO ₂ at the cathode, maintaining a -400 mV potential and H ₂ supply."
+  },
+  {
+    "question": "Strain screening strategies for microbial oil production from textile wastewater fermentation?",
+    "answer": "Resistant to azo dyes such as Congo red, Rhodotorula glutinis is preferred."
+  },
+  {
+    "question": "How does Near Infrared Spectroscopy (NIRS) monitor the composition of fermentation broth online?",
+    "answer": "Based on the vibration characteristic peaks of C-H and O-H bonds, the concentration of glucose and lactic acid is predicted in real time."
+  },
+  {
+    "question": "The role of digital twin models in fermentation plant failure prediction?",
+    "answer": "Integrate sensor data and mechanism models to provide early warning of the risk of agitator failure or bacterial contamination."
+  },
+  {
+    "question": "How can blockchain technology guarantee the traceability of fermented foods?",
+    "answer": "Record the source of the strain, process parameters to the distributed ledger to prevent data tampering (such as soy sauce brewing)."
+  },
+  {
+    "question": "Economic analysis of plasma-assisted pretreatment of lignocellulose?",
+    "answer": "Reduce the amount of enzyme by 30-50%, but the investment in equipment has increased, which is suitable for large-scale plants."
+  },
+  {
+    "question": "Fermentation Industry Carbon Capture and Storage (CCS) Technology Pathway?",
+    "answer": "Adsorption of tail gas CO ₂ (such as amine solution absorption), geological storage or transformation of microalgae biomass."
+  },
+  {
+    "question": "How can the nitrogen footprint of the fermentation process be reduced through metabolic remodeling?",
+    "answer": "Optimize the amino acid synthesis pathway (such as high glutamate-producing bacteria) and reduce the amount of ammonium salt added."
+  },
+  {
+    "question": "Application of phage display technology in screening high-yielding enzyme strains?",
+    "answer": "Construct an enzyme-phage fusion library to screen for mutants (such as high-temperature resistant proteases) by affinity."
+  },
+  {
+    "question": "How can bionic materials improve the efficiency of immobilized cell fermentation?",
+    "answer": "Porous silica gel loaded nano-enzymes mimic cell membrane structure and enhance substrate transfer."
+  },
+  {
+    "question": "Bioinformatics Tools and Processes for Predicting CRISPR Off-Target Sites?",
+    "answer": "Genome alignment using CRISPOR or CHOPCHOP in conjunction with GuideScan validation."
+  },
+  {
+    "question": "FDA GMP compliance requirements for continuous fermentation processes?",
+    "answer": "Real-time quality monitoring (Pat technology) and batch definition are required."
+  },
+  {
+    "question": "Patent writing points for synthetic biology strains?",
+    "answer": "Gene editing sites (such as SEQ ID NO), phenotypic data, and industrial suitability need to be clarified."
+  },
+  {
+    "question": "What are the requirements for insect protein fermentation products in the EU's Novel Food Regulation?",
+    "answer": "Toxicological data, sensitization assessments, and nutritional labels need to be submitted."
+  },
+  {
+    "question": "Changes in yeast fermentation behavior in space microgravity and countermeasures?",
+    "answer": "Decreased metabolic rate requires enhanced stirring or magnetic field to simulate gravity."
+  },
+  {
+    "question": "Portable system design for battlefield emergency ethanol fermentation?",
+    "answer": "Integrated cellulose pretreatment, yeast immobilization module, produces fuel 24 hours a day."
+  },
+  {
+    "question": "How can corrosion resistant biofilms be developed using marine intertidal strains?",
+    "answer": "Pseudoalteromonas, which produces extracellular polysaccharides, is screened to inhibit surface oxidation of metals."
+  },
+  {
+    "question": "Synthetic Biology-Built Microbial Cell Factory Economy Evaluation Indicators",
+    "answer": "Carbon Conversion Rate (> 50%), Production Strength (> 1 g/L/h) and Separation Cost (< 20%)"
+  },
+  {
+    "question": "Protein content of artificial meat produced by fermentation compared to animal meat",
+    "answer": "Fungal protein (e.g. Fusarium) 45-55% protein, close to beef (50-55%)"
+  },
+  {
+    "question": "Coulomb Efficiency Range for Microbial Fuel Cell (MFC) Wastewater Treatment",
+    "answer": "Typical value is 40-60%, affected by substrate type and electrode material"
+  },
+  {
+    "question": "How efficient is the direct photosynthesis of ethanol by genetically modified cyanobacteria?",
+    "answer": "Currently, the maximum potency is only 2.5 g/L, so the allocation of carbon flux needs to be improved"
+  },
+  {
+    "question": "What is the substrate cost ratio of microbially synthesized PHAs (polyhydroxy fatty acid esters)?",
+    "answer": "Glucose substrates account for 60% of the total cost, and switching to waste molasses can reduce 30%"
+  },
+  {
+    "question": "How does the crystalline purity of vitamin B12 produced by fermentation improve?",
+    "answer": "Adding 5% methanol increases the crystalline purity from 90% to 99%"
+  },
+  {
+    "question": "Spray drying stabilizes key parameters of probiotic survival?",
+    "answer": "When the inlet air temperature is 160 °C and the outlet temperature is 80 °C, the survival rate is > 70% (the conventional method is only 50%)"
+  },
+  {
+    "question": "How is the eluent salt concentration optimized when the ion exchange resin purifies antibiotics?",
+    "answer": "When the NaCl gradient is 0.1-0.5 M, the penicillin G recovery rate can reach 95%."
+  },
+  {
+    "question": "How is the intercepted molecular weight of microbial proteins recovered by membrane filtration selected?",
+    "answer": "10 kDa ultrafiltration membrane to yeast protein recovery rate > 90%, and impurity removal rate 80%"
+  },
+  {
+    "question": "What is the energy consumption of the electrodialysis process for extracting lactic acid from the fermentation broth?",
+    "answer": "Approximately 1.2-1.5 kWh/kg lactic acid, accounting for 25% of the total production cost"
+  },
+  {
+    "question": "In solid-state fermentation, the effect of particle size (such as bran) on mass transfer efficiency?",
+    "answer": "The oxygen transfer coefficient (kLa) is highest when the particle diameter is 1-2 mm, which is 50% higher than that of 5 mm particles."
+  },
+  {
+    "question": "What is the optimal range for the C/N ratio when producing biogas from anaerobic fermentation?",
+    "answer": "Methane yield highest at C/N = 20-30 (0.35 m ³/kg VS), > 20% yield reduction beyond this range"
+  },
+  {
+    "question": "Effect of initial pH on by-product glycerol production during yeast ethanol fermentation?",
+    "answer": "lowest glycerol production at pH 4.5 (3.2 g/L), increased to 8.5 g/L at pH 6.0"
+  },
+  {
+    "question": "When E. coli is fermented at high density, how much lower than dissolved oxygen (DO) will trigger acetic acid accumulation?",
+    "answer": "When DO < 15% saturation, the acetic acid concentration can reach 5 g/L within 4 hours, inhibiting growth"
+  },
+  {
+    "question": "Influence of feeding strategy on potency in penicillin fermentation",
+    "answer": "Glucose-limited feeding (0.1 g/L/h) can increase potency to 100 g/L, 30% higher than batch fermentation"
+  },
+  {
+    "question": "Correlation between mycelial morphology and product secretion during solid state fermentation of filamentous fungi such as Aspergillus niger?",
+    "answer": "Short hyphae (< 100 μm) are more conducive to enzyme secretion than long hyphae, with 40% higher enzyme production"
+  },
+  {
+    "question": "Effect of overexpression of NADH oxidase in lactic acid bacteria on lactic acid production",
+    "answer": "Can reduce by-product acetic acid, lactic acid yield increased from 85% to 93%"
+  },
+  {
+    "question": "How the mixing ratio of starch and glucose influences enzyme activity in the carbon source optimization of Bacillus subtilis alpha-amylase production",
+    "answer": "Starch: glucose = 7: 3 when enzyme activity is highest (1200 U/mL), pure glucose is only 800 U/mL"
+  },
+  {
+    "question": "When E. coli produces recombinant proteins, the effect of lowering the induction temperature from 37°C to 25°C on the solubility of the product?",
+    "answer": "Low temperature induction reduces inclusion body formation, improves solubility by 50-80%, but prolongs fermentation cycle by 30%"
+  },
+  {
+    "question": "How to improve ethanol tolerance in Saccharomyces cerevisiae with CRISPR-Cas9 technology",
+    "answer": "Knocking out stress-responsive genes such as SOD1 increases ethanol tolerance by 20%, but balances oxidative stress"
+  },
+  {
+    "question": "What is microbial fermentation?",
+    "answer": "Microbial fermentation is the process by which microorganisms such as bacteria, yeast, and mold are used to convert organic matter (such as sugars) into metabolites (such as alcohol, acids, enzymes, etc.) under controlled conditions."
+  },
+  {
+    "question": "What are the types of fermentation?",
+    "answer": "By product: alcoholic fermentation (e.g. yeast), lactic acid fermentation (e.g. lactic acid bacteria), acetic acid fermentation (e.g. acetic acid bacteria), antibiotic fermentation (e.g. penicillium), etc."
+  },
+  {
+    "question": "Difference between aerobic and anaerobic fermentation?",
+    "answer": "Aerobic fermentation requires oxygen (such as penicillin production), and anaerobic fermentation does not require oxygen (such as yogurt fermentation)."
+  },
+  {
+    "question": "What are some common industrial fermentation microorganisms?",
+    "answer": "Yeast (Saccharomyces cerevisiae), bacteria (E. coli, Bacillus subtilis), molds (Aspergillus niger, Aspergillus oryzae), actinomycetes (Streptomyces)"
+  },
+  {
+    "question": "How are fermentation strains selected?",
+    "answer": "Based on product type (e.g. enzyme production, antibiotics), growth rate, substrate utilization, anti-pollution ability, etc."
+  },
+  {
+    "question": "What is seed expansion?",
+    "answer": "The process of gradually expanding the preserved strains to a sufficient amount of inoculation to ensure bacterial activity in the fermenter"
+  },
+  {
+    "question": "What parameters need to be monitored during the fermentation process?",
+    "answer": "pH, temperature, DO, stirring rate, foam level, substrate concentration, metabolite concentration, etc."
+  },
+  {
+    "question": "Why is it important to control pH?",
+    "answer": "pH affects enzyme activity and microbial growth, such as maintaining pH 5.5-6.5 for lactic acid fermentation."
+  },
+  {
+    "question": "How to solve dissolved oxygen deficiency in fermentation?",
+    "answer": "Increase ventilation, increase agitation rate, add oxygen-enriched air or pure oxygen"
+  },
+  {
+    "question": "The main components of the fermentation medium?",
+    "answer": "Carbon source (glucose), nitrogen source (yeast extract), inorganic salts (phosphate), growth factors (vitamins)"
+  },
+  {
+    "question": "Why is cornstarch or soybean meal commonly used as a nitrogen source?",
+    "answer": "They contain organic nitrogen such as amino acids and polypeptides, which is more conducive to microbial absorption than inorganic nitrogen."
+  },
+  {
+    "question": "How can I reduce my media costs?",
+    "answer": "Use cheap ingredients (e.g. molasses, agricultural waste) or optimize ratios"
+  },
+  {
+    "question": "Common manifestations of fermentative infections?",
+    "answer": "abnormal pH fluctuations, slow growth of bacteria, sudden decline in product volume, abnormal increase in foam"
+  },
+  {
+    "question": "How do I prevent bacterial contamination?",
+    "answer": "Strict sterilization (medium, equipment), aseptic operation, regular testing, addition of selective inhibitors"
+  },
+  {
+    "question": "What if there is too much foam in the fermentation broth?",
+    "answer": "Add an antifoaming agent (such as polydimethylsiloxane), adjust ventilation or agitation rate"
+  },
+  {
+    "question": "How are the fermentation products separated?",
+    "answer": "Centrifugation (bacterial separation), filtration (solid-liquid separation), extraction (e.g. alcohol distillation), chromatography (protein purification)"
+  },
+  {
+    "question": "Why do some fermentation products need to be induced?",
+    "answer": "For recombinant protein production, inducers such as IPTG need to be added to initiate target gene expression"
+  },
+  {
+    "question": "Fermentation applications in the food industry?",
+    "answer": "Yogurt (lactic acid bacteria), beer (yeast), soy sauce (Aspergillus oryzae), bread (yeast)"
+  },
+  {
+    "question": "Examples of fermentation in the pharmaceutical field?",
+    "answer": "Penicillin (Penicillium flavum), Insulin (Genetically Engineered E. coli), Vaccine (Cho Cell Culture)"
+  },
+  {
+    "question": "How to use fermentation in environmental protection?",
+    "answer": "Wastewater treatment (anaerobic fermentation to produce biogas), biodegradation (microbial decomposition of plastics)"
+  },
+  {
+    "question": "What is Solid State Fermentation",
+    "answer": "Microorganisms grow on moist solid substrates, such as bran, and are often used for fungal enzymes or food fermentation"
+  },
+  {
+    "question": "The effect of synthetic biology on fermentation?",
+    "answer": "Genetically modified microorganisms to produce high-value compounds (e.g., artificial meat proteins, artemisinins)"
+  },
+  {
+    "question": "What is the typical optimum temperature for Saccharomyces cerevisiae ethanol fermentation? To what extent does it significantly inhibit yeast activity?",
+    "answer": "Optimum temperature 30-35°C, yeast growth above 40°C and significant decrease in ethanol production (> 50%)"
+  },
+  {
+    "question": "What is the typical concentration range for IPTG induction when E. coli expresses recombinant proteins? What problems can be caused by too high a concentration?",
+    "answer": "Commonly used 0.1-1.0 mM, more than 2 mM may cause metabolic burden (such as a reduction in growth rate of more than 30%)"
+  },
+  {
+    "question": "In penicillin fermentation, what percentage of dissolved oxygen (DO) needs to be maintained above? Below how much will lead to a drop in production",
+    "answer": "DO ≥ 30% saturation to be maintained, 40-60% reduction in penicillin production below 10%"
+  },
+  {
+    "question": "When lactic acid is fermented by lactic acid bacteria to produce lactic acid, the initial concentration of glucose is generally controlled at what g/L? What can be caused by being too high?",
+    "answer": "Usually 80-120 g/L, more than 150 g/L may trigger substrate inhibition (bacterial growth delay 2-4 hours)"
+  },
+  {
+    "question": "In the fermentation of Aspergillus niger, which produces citric acid on an industrial scale, what range should the initial pH be controlled? How much lower will the pH significantly inhibit acid production?",
+    "answer": "Initial pH 2.5-3.0, if pH < 2.0, citric acid production decreases by more than 50%"
+  },
+  {
+    "question": "What is the typical addition ratio of yeast extract to peptone in YPD medium during yeast culture?",
+    "answer": "1% yeast extract + 2% peptone + 2% glucose (w/v)"
+  },
+  {
+    "question": "How much sugar-acid conversion is usually achieved when Corynebacterium glutamicum is fermented to produce glutamic acid",
+    "answer": "Approximately 50-60% (i.e. 1 g of glucose produces 0.5-0.6 g of glutamic acid)"
+  },
+  {
+    "question": "What is the theoretical yield of yeast to glucose (Y<sub> P/S</sub>) in alcoholic fermentation? How much can you achieve in real industry?",
+    "answer": "Theoretical yield 0.51 g ethanol/g glucose, actual industrial yield 0.45-0.48 (efficiency 90-94%)"
+  },
+  {
+    "question": "What is the typical potency (yield per unit volume) of antibiotic (e.g. penicillin G) fermentation?",
+    "answer": "Industrial scale up to 50-100 g/L fermentation broth"
+  },
+  {
+    "question": "The ventilation volume of the 5000L fermenter is generally set to how much VVM (volume ratio/minute)",
+    "answer": "Aerobic fermentation usually 0.5-1.5 VVM (e.g. 1 VVM = 5000 L air/min)"
+  },
+  {
+    "question": "In large-scale fermentation, the temperature difference between the inlet and outlet of cooling water is generally controlled within how many degrees Celsius?",
+    "answer": "Usually ΔT ≤ 10 ℃ (such as inlet 20 ℃, outlet ≤ 30 ℃), avoid local overheating"
+  },
+  {
+    "question": "What is the typical temperature and time combination for fermentation broth sterilization?",
+    "answer": "121°C for 15-20 minutes (or 130°C for 2-5 minutes)"
+  },
+  {
+    "question": "When the pH of the fermentation broth drops unexpectedly from 6.5 to 4.0, how much NaOH solution should be added to regulate it?",
+    "answer": "It is recommended to slowly add 2-5 M NaOH, and the adjustment amplitude is ≤ 0.5 pH units each time."
+  },
+  {
+    "question": "If the DO of the fermentation tank suddenly drops below 5%, how much should the stirring rate be increased from 200 rpm?",
+    "answer": "Stepped up to 300-400 rpm (avoids shear damage to bacteria)"
+  },
+  {
+    "question": "When the concentration of bacteria in the fermentation broth after infection exceeds 10<sup> 6</sup> CFU/mL, is it recommended to stop the fermentation?",
+    "answer": "Yes, especially when producing pharmaceutical products (contamination is considered if the proportion of miscellaneous bacteria is > 1%)"
+  },
+  {
+    "question": "Industrial yeast fermentation produces ethanol, how much glucose is consumed per ton of ethanol?",
+    "answer": "About 2.1-2.3 tons of glucose (theoretical value 1.9 tons, actual loss)"
+  },
+  {
+    "question": "How much does it cost to produce 1kg of vitamin<sub> B12</sub> by microbial fermentation?",
+    "answer": "Approximately $800-1200 (3-5 times more expensive for chemical synthesis)"
+  },
+  {
+    "question": "What is the maximum Escherichia coli OD<sub> 600</sub> for high-density fermentation?",
+    "answer": "Conventional fermentation OD<sub> 600</sub> ≈ 50-100, high-density culture up to 200-300 (feeding control required)"
+  },
+  {
+    "question": "Solid state fermentation produces cellulase, what is the enzymatic activity per gram of dry matrix, such as bran?",
+    "answer": "Approximately 50-200 IU/g dry matrix (IU = international unit)"
+  },
+  {
+    "question": "How can E. coli be genetically engineered to increase the efficiency of heterologous proteins, such as insulin?",
+    "answer": "It can increase secretion by optimizing signal peptides (such as PelB), co-expressing molecular partners (such as GroEL/GroES), and knockout protease genes (such as lon/degP), and some studies report that production can be increased by 3-5 times."
+  },
+  {
+    "question": "Why does Saccharomyces cerevisiae produce by-product glycerol in ethanol fermentation? How do I suppress it?",
+    "answer": "Glycerol is a byproduct of the nad + regeneration pathway and can reduce glycerol production and improve ethanol yield by overexpressing NADH oxidase such as NOx or limiting oxygen supply"
+  },
+  {
+    "question": "In penicillin industrial fermentation, how much lower than dissolved oxygen (DO) will lead to a significant decrease in production?",
+    "answer": "When DO < 10% saturation, penicillin production decreases by 40-60%, and DO ≥ 30% needs to be maintained"
+  },
+  {
+    "question": "What is the optimum moisture activity (a<sub> w</sub>) range for solid state fermentation (SSF) to produce cellulase?",
+    "answer": "Usually 0.70-0.85, too low (< 0.60) will inhibit the growth of mycelium, too high (> 0.90) susceptible bacteria"
+  },
+  {
+    "question": "What is the typical potency<sub> of</sub> microbial fermentation to produce vitamin B12?",
+    "answer": "Industrial scale up to 50-200 mg/L, cost about 800-1200 USD/kg, significantly lower than chemical synthesis"
+  },
+  {
+    "question": "How can lactic acid be efficiently isolated from fermentation broth?",
+    "answer": "Commonly used electrodialysis (recovery rate > 90%) or crystallization method (purity > 99%), but the former has a high energy consumption"
+  },
+  {
+    "question": "What are the nutritional limitations of microbial proteins (such as fungal proteins) instead of animal proteins?",
+    "answer": "Supplementation with sulfur-containing amino acids (such as methionine) and high nucleic acid content (depurination required)"
+  },
+  {
+    "question": "How Bioelectrochemical Systems (BES) Enhance Sludge Anaerobic Digestion Methane Production Efficiency",
+    "answer": "Direct interspecies electron transfer (diet) is facilitated by electrode enrichment of electroproducing bacteria (e.g. Geobacter), increasing methane production by 30-50%"
+  },
+  {
+    "question": "In high-density fermentation, what problems are likely to occur when E. coli OD<sub> 600</sub> exceeds 200?",
+    "answer": "Dissolved oxygen gradient increases (core DO ≈ 0), acetic acid accumulation (> 5 g/L inhibits growth), feeding needs to be controlled"
+  },
+  {
+    "question": "How can codon use be optimized when E. coli produces recombinant proteins?",
+    "answer": "When the host preference codon replacement rate is > 80%, the protein expression can be increased by 3-5 times."
+  },
+  {
+    "question": "How to achieve high-density culture in lactic acid bacteria fermentation?",
+    "answer": "Using the pH-stat feeding strategy, the pH is controlled at 6.0-6.5, and the bacterial density can reach 20-30g DCW/L."
+  },
+  {
+    "question": "How can the precursor addition strategy be optimized in penicillin fermentation?",
+    "answer": "Pulse addition of phenylacetic acid, maintained at a concentration of 0.8-1.2g/L, increases yield by 25%"
+  },
+  {
+    "question": "How can acetic acid accumulation be avoided in high density cultures?",
+    "answer": "Control specific growth rate < 0.15 h ² ¹, acetic acid concentration can be maintained at < 1g/L"
+  },
+  {
+    "question": "How can mass transfer efficiency be optimized in solid-state fermentation?",
+    "answer": "Using the intermittent stirring strategy (stirring every 12h for 5min), the oxygen transfer efficiency is increased by 40%."
+  },
+  {
+    "question": "How can the recovery of protein in fermentation broth be improved?",
+    "answer": "Using flocculation-ultrafiltration technology, the recovery rate can reach more than 95%."
+  },
+  {
+    "question": "How can solvent losses be reduced during antibiotic extraction?",
+    "answer": "The solvent recovery can reach 85-90% by countercurrent extraction process."
+  },
+  {
+    "question": "The best process conditions for microbial oil extraction?",
+    "answer": "Supercritical CO ₂ extraction (35MPa, 40°C), extraction rate > 95%."
+  },
+  {
+    "question": "How can the cost of producing amino acids by fermentation be reduced?",
+    "answer": "By using metabolic engineering to modify the strain, the raw material cost can be reduced by 30-40%."
+  },
+  {
+    "question": "How does the power density of microbial fuel cells increase?",
+    "answer": "Power density up to 3.5W/m ² using 3D graphene electrodes."
+  },
+  {
+    "question": "Conversion rate of bioplastics produced by fermentation?",
+    "answer": "The latest engineered strains convert glucose into PHB with efficiency up to 0.4g/g."
+  },
+  {
+    "question": "How can the long-term stability of continuous fermentation be achieved?",
+    "answer": "It adopts a multi-stage series fermentation system, which can run continuously for more than 60 days."
+  },
+  {
+    "question": "Temperature control strategies for extreme microbial fermentation?",
+    "answer": "Adopt a jacket-coil combination temperature control system with temperature fluctuation < ± 0.5 ℃."
+  },
+  {
+    "question": "Redox potential control range for anaerobic fermentation?",
+    "answer": "Maintain ORP at -200 to -300mV for optimal metabolic activity."
+  },
+  {
+    "question": "How can key metabolites in fermentation broth be monitored in real time?",
+    "answer": "Using online Raman spectroscopy combined with PLS model, the detection error is < 5%."
+  },
+  {
+    "question": "How to quickly detect contaminated bacteria during fermentation?",
+    "answer": "Contamination of 10 ³ CFU/mL can be detected within 2 hours using qPCR technology."
+  },
+  {
+    "question": "Rapid determination of bacterial concentration?",
+    "answer": "Near infrared spectroscopy, determination time < 1min, error < 3%."
+  },
+  {
+    "question": "How can the energy consumption of the fermentation process be reduced?",
+    "answer": "Heat pump technology is used to recover fermentation heat, saving 30-40% of energy."
+  },
+  {
+    "question": "How can yeast heat tolerance be improved through adaptive evolution?",
+    "answer": "Continuous subculture at gradually rising temperatures (such as 30°C and→ 40°C) can screen out high-temperature resistant strains and increase fermentation efficiency by 15-20%"
+  },
+  {
+    "question": "Effect of IPTG-induced concentrations on inclusion body formation when E. coli produces recombinant proteins?",
+    "answer": "Low concentration (0.1 mM) can reduce inclusion bodies, but the expression level is low; high concentration (1 mM) is easy to form inclusion bodies, so it is necessary to optimize the balance."
+  },
+  {
+    "question": "How to optimize spore inoculation when filamentous fungi (such as Aspergillus niger) produce enzymes?",
+    "answer": "Usually 1 × 10 ² spores/mL is the best, too high can lead to excessive growth of mycelium, affecting mass transfer"
+  },
+  {
+    "question": "When Bacillus subtilis produces proteases, the role of metallic ions (such as Ca ² ²)?",
+    "answer": "Calcium (0.1-0.5 mM) stabilizes enzyme structure and increases enzyme activity by 20-30%"
+  },
+  {
+    "question": "How do feeding strategies affect the growth of E. coli during high-density fermentation?",
+    "answer": "Exponential feeding maintains specific growth rate (μ = 0.2 h ² ¹) and avoids acetic acid accumulation (< 2 g/L)."
+  },
+  {
+    "question": "What is the economics of replacing glucose with molasses in alcoholic fermentation?",
+    "answer": "Molasses costs 30-50% less, but needs to be pretreated (desulfurized, diluted) to avoid inhibiting yeast."
+  },
+  {
+    "question": "In solid state fermentation (SSF), how can the moisture content of the material be controlled?",
+    "answer": "Usually 60-70% humidity is optimal, too low (< 50%) restricts growth, and too high (> 80%) is susceptible to bacteria."
+  },
+  {
+    "question": "When to add the precursor phenylacetic acid in penicillin fermentation?",
+    "answer": "Added in the middle of fermentation (24-48 h), the concentration is 0.5-1.0 g/L, which can increase the yield by 20%."
+  },
+  {
+    "question": "How to optimize HRT (hydraulic residence time) when producing biogas by anaerobic fermentation?",
+    "answer": "Medium temperature fermentation (35°C) HRT = 20-30 days, high temperature (55°C) can be reduced to 15 days."
+  },
+  {
+    "question": "How can microbial fats and oils be extracted efficiently from fermentation broth?",
+    "answer": "Extraction with organic solvent (n-hexane), recovery > 90%, but solvent residues need to be considered."
+  },
+  {
+    "question": "When spray-drying probiotics, the optimal amount of protective agents (such as trehalose) to be added?",
+    "answer": "10-15% trehalose improves survival to 80-90%."
+  },
+  {
+    "question": "How efficient is the current recovery of lactic acid by electrodialysis?",
+    "answer": "Usually 60-80%, energy consumption is about 1.5 kWh/kg lactic acid."
+  },
+  {
+    "question": "The crystalline yield of vitamin B12 produced by fermentation?",
+    "answer": "By crystallizing under reduced temperature, the yield can reach 70-80%, and the purity is > 98%."
+  },
+  {
+    "question": "Synthetic biology engineered yeast to produce artemisic acid production?",
+    "answer": "Currently up to 25 g/L, optimal distribution of metabolic streams is still required."
+  },
+  {
+    "question": "Advances in microbial fermentation to degrade plastics such as PET?",
+    "answer": "Engineered enzymes, such as PETase, can degrade 50% of pet films at 48 h, but scale is difficult."
+  },
+  {
+    "question": "How accurate is the capacitance method in monitoring cell density online? What are the advantages over the traditional OD600 method?",
+    "answer": "Capacitance method error < 5% and can be sterilized online, while OD600 needs to be sampled offline"
+  },
+  {
+    "question": "What are the key parameters for the optimization of carbon source feeding strategies in avermectin fermentation?",
+    "answer": "Through association analysis, it was determined that when the acceleration rate of glucose supplementation was controlled at 0.15 g/L/h, the yield was increased from 3.8g/L to 5.05 g/L"
+  },
+  {
+    "question": "How can promoter engineering improve lactic acid bacteria's ethanol tolerance?",
+    "answer": "Overexpression of AcrR transcriptional regulator increases ethanol tolerance by 2-fold by regulating fatty acid synthesis"
+  },
+  {
+    "question": "How is the production of lanosulphobacterin bovicin HJ50 enhanced by genetic modification?",
+    "answer": "Optimize the catalytic domain of its synthase BovM, increasing production by 40%"
+  },
+  {
+    "question": "What is the best combination of spray-dried probiotics?",
+    "answer": "85% survival rate of trehalose (10%) + skim milk (5%) combination"
+  },
+  {
+    "question": "How to reduce energy consumption when recovering lactic acid by electrodialysis?",
+    "answer": "Energy consumption can be reduced by 20% with pulsed electric field mode (5s on/5s off)"
+  },
+  {
+    "question": "How can microbial communities be optimized in silage fermentation?",
+    "answer": "Fermentation quality can be improved by 30% by adding fermentase-producing lactic acid bacteria"
+  },
+  {
+    "question": "What are the key quality control points for organic fertilizer microbial fermentation?",
+    "answer": "Moisture (50-60%), C/N ratio (25-30) and temperature (45-55°C) to be controlled"
+  },
+  {
+    "question": "How efficiently do synthetic biologically engineered lactic acid bacteria produce mannitol?",
+    "answer": "0.85 g/g substrate by regulating the adhE gene"
+  },
+  {
+    "question": "Power density bottleneck when microbial fuel cells treat wastewater?",
+    "answer": "Currently up to about 1.2W/m ³, limited by electrode material and flora activity"
+  },
+  {
+    "question": "Energy consumption difference between continuous fermentation and batch fermentation?",
+    "answer": "Energy consumption per unit product is reduced by 15-20%, but equipment investment is 30% higher"
+  },
+  {
+    "question": "Optimal material properties for solid state fermentation of cellulase?",
+    "answer": "Porosity 60-65%, maximum enzyme activity at particle size 1-2mm"
+  },
+  {
+    "question": "What are the cost components of microbial oil production?",
+    "answer": "60% raw materials, 25% supercritical CO ₂ extraction"
+  },
+  {
+    "question": "Recent advances in CRISPR-dCas9 dynamically regulating yeast metabolism?",
+    "answer": "Real-time regulation of key genes in the glycolysis pathway has been achieved, yield increased by 18%"
+  },
+  {
+    "question": "Efficiency bottlenecks for engineering bacteria to degrade pet plastics?",
+    "answer": "The current 72h degradation rate is about 90%, but the efficiency drops sharply when the thickness is > 0.1mm"
+  },
+  {
+    "question": "How can CRISPR-dCas9 technology be used to dynamically regulate the glycolysis pathway of yeast?",
+    "answer": "Studies have shown that targeting PFK1 and PK1 gene promoters with sgRNA increases ethanol production by 18% while reducing glycerol production"
+  },
+  {
+    "question": "How can the glycerol metabolic pathway be optimized when E. coli produces 1,3-propanediol?",
+    "answer": "Overexpression of glycerol dehydratase (dhaB) and 1,3-PD oxidoreductase (dhaT) increased yield from 60 g/L to 85 g/L."
+  },
+  {
+    "question": "How does promoter engineering affect expression levels when Bacillus subtilis produces alpha-amylase?",
+    "answer": "Replacing the natural promoter with the P<sub> hag</sub> strong promoter increases enzyme activity by 2.5 times."
+  },
+  {
+    "question": "How does the methanol induction strategy affect exogenous protein production when Pichia pastoris is cultured at high density?",
+    "answer": "Gradient induction (0.5%→ 1.0% methanol) was used to increase protein production by 30% compared to a one-time addition."
+  },
+  {
+    "question": "When anaerobic fermentation produces butyric acid, the effect of pH regulation on product distribution?",
+    "answer": "Maintain pH 6.0-6.5, butyric acid proportion can reach 70%, and the proportion of acetic acid increases to 40% when pH < 5.5"
+  },
+  {
+    "question": "Solid-state fermentation produces cellulase, and the effect of material porosity on enzyme activity?",
+    "answer": "The enzyme activity is highest (~ 150 U/g) when the porosity is 60-65%, and too low (< 50%) limits oxygen transfer."
+  },
+  {
+    "question": "Optimization conditions for supercritical CO<sub> 2</sub> extraction of microbial oils and fats?",
+    "answer": "Extraction rate > 95% at 35 MPa and 45°C, but pressure > 40 MPa destroys unsaturated fatty acids."
+  },
+  {
+    "question": "Optimized formulas for spray-dried probiotics?",
+    "answer": "Combination of trehalose (10%) + skim milk (5%) with a survival rate of 85%."
+  },
+  {
+    "question": "Effectiveness of microbial fuel cell (MFC) treatment of beer wastewater?",
+    "answer": "The cod removal rate is &gt; 90%, and the power generation density reaches 1.2 W/m<sup> 3</sup>."
+  },
+  {
+    "question": "Corynebacterium glutamicum synthetic biologically constructed to produce PHA carbon conversion?",
+    "answer": "The modified strain has a glucose→ PHA conversion rate of 0.3 g/g, which is 50% higher than the wild type."
+  },
+  {
+    "question": "Recent progress in the degradation of pet plastics by microbial fermentation?",
+    "answer": "Engineered pet hydrolase (ICCG) degrades 90% of the film (thickness < 0.1 mm) at 72 h."
+  },
+  {
+    "question": "How to quickly detect phage contamination during fermentation?",
+    "answer": "Use qPCR to target phage conserved genes (e.g. gp23) with a detection limit of 10<sup> 2</sup> PFU/mL."
+  },
+  {
+    "question": "A bottleneck in the crystalline yield of vitamin<sub> B12</sub> produced by fermentation?",
+    "answer": "At present, the industrial scale yield is only 70-75%, and the main loss is in the mother liquor residue."
+  },
+  {
+    "question": "How does the initial moisture content affect protease activity in Aspergillus oryzae solid-state fermentation?",
+    "answer": "Studies have shown that when the moisture content is 60-65%, the protease activity is the highest (~ 150 U/g). Moisture < 50% will restrict the growth of mycelium, and > 70% will easily lead to bacterial infection."
+  },
+  {
+    "question": "What is the optimum pH and temperature for lactic acid bacteria fermentation to produce GABA?",
+    "answer": "the yield of GABA can reach 5-8 g/L at pH 4.5-5.0 and 30-37 ℃, and the yield outside this range decreases by more than 30%."
+  },
+  {
+    "question": "How do you control acetic acid accumulation in yeast high-density fermentation?",
+    "answer": "Maintain dissolved oxygen > 30%, specific growth rate < 0.15 h ² ¹, can make the acetic acid concentration < 1 g/L."
+  },
+  {
+    "question": "How can the production of lactic acid by E. coli be increased by CRISPR technology?",
+    "answer": "Knockout of the acetic acid synthesis pathway gene (ackA-pta) can increase lactic acid production by 40%."
+  },
+  {
+    "question": "Bacillus subtilis promoter optimization strategy for alpha-amylase production?",
+    "answer": "Replacing the natural promoter with the PamyQ strong promoter increased enzyme activity by 2.5-fold."
+  },
+  {
+    "question": "Genetically modified methods for Saccharomyces cerevisiae to tolerate high sugar concentrations?",
+    "answer": "Overexpression of the HOG1 signaling pathway gene resulted in a 3-fold increase in survival at 50% glucose concentrations."
+  },
+  {
+    "question": "What is the typical titer of vitamin B12 produced by fermentation?",
+    "answer": "The industrial scale titer can reach 50-200 mg/L, and the cost is about 800-1200 USD/kg."
+  },
+  {
+    "question": "How can microbial fats and oils be extracted efficiently from fermentation broth?",
+    "answer": "Supercritical CO ₂ extraction (35MPa, 45°C) yields > 95%, but pressure > 40MPa destroys unsaturated fatty acids."
+  },
+  {
+    "question": "The feasibility of Raman spectroscopy for online monitoring of glucose concentrations in fermentation broth?",
+    "answer": "Combined with PLS model detection error < 3%, response time < 1 minute."
+  },
+  {
+    "question": "Cost advantages of continuous fermentation over batch fermentation?",
+    "answer": "Equipment utilization increased by 25%, but the risk of infection increased by 3 times."
+  },
+  {
+    "question": "Synthetic Biology-Built Microbial Cell Factory Economy Evaluation Indicators",
+    "answer": "Carbon Conversion Rate (> 50%), Production Strength (> 1 g/L/h) and Separation Cost (< 20%)"
+  },
+  {
+    "question": "Protein content of artificial meat produced by fermentation compared to animal meat",
+    "answer": "Fungal protein (e.g. Fusarium) 45-55% protein, close to beef (50-55%)"
+  },
+  {
+    "question": "Coulomb Efficiency Range for Microbial Fuel Cell (MFC) Wastewater Treatment",
+    "answer": "Typical value is 40-60%, affected by substrate type and electrode material"
+  },
+  {
+    "question": "How efficient is the direct photosynthesis of ethanol by genetically modified cyanobacteria?",
+    "answer": "Currently, the maximum potency is only 2.5 g/L, so the allocation of carbon flux needs to be improved"
+  },
+  {
+    "question": "What is the substrate cost ratio of microbially synthesized PHAs (polyhydroxy fatty acid esters)?",
+    "answer": "Glucose substrates account for 60% of the total cost, and switching to waste molasses can reduce 30%"
+  },
+  {
+    "question": "How does the crystalline purity of vitamin B12 produced by fermentation improve?",
+    "answer": "Adding 5% methanol increases the crystalline purity from 90% to 99%"
+  },
+  {
+    "question": "Spray drying stabilizes key parameters of probiotic survival?",
+    "answer": "When the inlet air temperature is 160 °C and the outlet temperature is 80 °C, the survival rate is > 70% (the conventional method is only 50%)"
+  },
+  {
+    "question": "How is the eluent salt concentration optimized when the ion exchange resin purifies antibiotics?",
+    "answer": "When the NaCl gradient is 0.1-0.5 M, the penicillin G recovery rate can reach 95%."
+  },
+  {
+    "question": "How is the intercepted molecular weight of microbial proteins recovered by membrane filtration selected?",
+    "answer": "10 kDa ultrafiltration membrane to yeast protein recovery rate > 90%, and impurity removal rate 80%"
+  },
+  {
+    "question": "What is the energy consumption of the electrodialysis process for extracting lactic acid from the fermentation broth?",
+    "answer": "Approximately 1.2-1.5 kWh/kg lactic acid, accounting for 25% of the total production cost"
+  },
+  {
+    "question": "In solid-state fermentation, the effect of particle size (such as bran) on mass transfer efficiency?",
+    "answer": "The oxygen transfer coefficient (kLa) is highest when the particle diameter is 1-2 mm, which is 50% higher than that of 5 mm particles."
+  },
+  {
+    "question": "What is the optimal range for the C/N ratio when producing biogas from anaerobic fermentation?",
+    "answer": "Methane yield highest at C/N = 20-30 (0.35 m ³/kg VS), > 20% yield reduction beyond this range"
+  },
+  {
+    "question": "Effect of initial pH on by-product glycerol production during yeast ethanol fermentation?",
+    "answer": "lowest glycerol production at pH 4.5 (3.2 g/L), increased to 8.5 g/L at pH 6.0"
+  },
+  {
+    "question": "When E. coli is fermented at high density, how much lower than dissolved oxygen (DO) will trigger acetic acid accumulation?",
+    "answer": "When DO < 15% saturation, the acetic acid concentration can reach 5 g/L within 4 hours, inhibiting growth"
+  },
+  {
+    "question": "Influence of feeding strategy on potency in penicillin fermentation",
+    "answer": "Glucose-limited feeding (0.1 g/L/h) can increase potency to 100 g/L, 30% higher than batch fermentation"
+  },
+  {
+    "question": "Correlation between mycelial morphology and product secretion during solid state fermentation of filamentous fungi such as Aspergillus niger?",
+    "answer": "Short hyphae (< 100 μm) are more conducive to enzyme secretion than long hyphae, with 40% higher enzyme production"
+  },
+  {
+    "question": "Effect of overexpression of NADH oxidase in lactic acid bacteria on lactic acid production",
+    "answer": "Can reduce by-product acetic acid, lactic acid yield increased from 85% to 93%"
+  },
+  {
+    "question": "How the mixing ratio of starch and glucose influences enzyme activity in the carbon source optimization of Bacillus subtilis alpha-amylase production",
+    "answer": "Starch: glucose = 7: 3 when enzyme activity is highest (1200 U/mL), pure glucose is only 800 U/mL"
+  },
+  {
+    "question": "When E. coli produces recombinant proteins, the effect of lowering the induction temperature from 37°C to 25°C on the solubility of the product?",
+    "answer": "Low temperature induction reduces inclusion body formation, improves solubility by 50-80%, but prolongs fermentation cycle by 30%"
+  },
+  {
+    "question": "How to improve ethanol tolerance in Saccharomyces cerevisiae with CRISPR-Cas9 technology",
+    "answer": "Knocking out stress-responsive genes such as SOD1 increases ethanol tolerance by 20%, but balances oxidative stress"
+  },
+  {
+    "question": "What is microbial fermentation?",
+    "answer": "Microbial fermentation is the process by which microorganisms such as bacteria, yeast, and mold are used to convert organic matter (such as sugars) into metabolites (such as alcohol, acids, enzymes, etc.) under controlled conditions."
+  },
+  {
+    "question": "What are the types of fermentation?",
+    "answer": "By product: alcoholic fermentation (e.g. yeast), lactic acid fermentation (e.g. lactic acid bacteria), acetic acid fermentation (e.g. acetic acid bacteria), antibiotic fermentation (e.g. penicillium), etc."
+  },
+  {
+    "question": "Difference between aerobic and anaerobic fermentation?",
+    "answer": "Aerobic fermentation requires oxygen (such as penicillin production), and anaerobic fermentation does not require oxygen (such as yogurt fermentation)."
+  },
+  {
+    "question": "What are some common industrial fermentation microorganisms?",
+    "answer": "Yeast (Saccharomyces cerevisiae), bacteria (E. coli, Bacillus subtilis), molds (Aspergillus niger, Aspergillus oryzae), actinomycetes (Streptomyces)"
+  },
+  {
+    "question": "How are fermentation strains selected?",
+    "answer": "Based on product type (e.g. enzyme production, antibiotics), growth rate, substrate utilization, anti-pollution ability, etc."
+  },
+  {
+    "question": "What is seed expansion?",
+    "answer": "The process of gradually expanding the preserved strains to a sufficient amount of inoculation to ensure bacterial activity in the fermenter"
+  },
+  {
+    "question": "What parameters need to be monitored during the fermentation process?",
+    "answer": "pH, temperature, DO, stirring rate, foam level, substrate concentration, metabolite concentration, etc."
+  },
+    {
+    "question": "Why is pH control critical in fermentation?",
+    "answer": "The pH level significantly influences enzymatic activity and microbial growth. For instance, lactic acid fermentation requires maintaining a pH range of 5.5 to 6.5 for optimal performance."
+  },
+  {
+    "question": "How can insufficient dissolved oxygen during fermentation be addressed?",
+    "answer": "Strategies include increasing the aeration rate, enhancing the agitation speed, or supplementing with oxygen-enriched air or pure oxygen."
+  },
+  {
+    "question": "What are the primary components of a fermentation medium?",
+    "answer": "A typical fermentation medium consists of a carbon source (e.g., glucose), a nitrogen source (e.g., yeast extract), inorganic salts (e.g., phosphates), and growth factors (e.g., vitamins)."
+  },
+  {
+    "question": "Why are corn steep liquor or soybean meal commonly used as nitrogen sources?",
+    "answer": "They provide organic nitrogen in the form of amino acids and polypeptides, which are more readily assimilated by microorganisms compared to inorganic nitrogen sources."
+  },
+  {
+    "question": "How can the cost of the culture medium be reduced?",
+    "answer": "Cost reduction can be achieved by utilizing inexpensive raw materials, such as molasses or agricultural waste, or by optimizing the formulation of the medium."
+  },
+  {
+    "question": "What are the common indicators of microbial contamination in fermentation?",
+    "answer": "Indicators include abnormal pH fluctuations, retarded microbial growth, a sharp decrease in product yield, and excessive foam formation."
+  },
+  {
+    "question": "What measures can be taken to prevent microbial contamination?",
+    "answer": "Preventive measures include rigorous sterilization of the medium and equipment, aseptic operational procedures, regular monitoring, and the addition of selective inhibitors."
+  },
+  {
+    "question": "How can excessive foaming in the fermentation broth be managed?",
+    "answer": "Foaming can be controlled by adding antifoaming agents, such as polydimethylsiloxane, or by adjusting the aeration or agitation rates."
+  },
+  {
+    "question": "What methods are used for the separation of fermentation products?",
+    "answer": "Separation techniques include centrifugation for cell separation, filtration for solid-liquid separation, extraction (e.g., ethanol distillation), and chromatography for protein purification."
+  },
+  {
+    "question": "Why is induced expression necessary for some fermentation products?",
+    "answer": "For the production of substances like recombinant proteins, an inducer such as IPTG is required to initiate the expression of the target gene."
+  },
+  {
+    "question": "What are some applications of fermentation in the food industry?",
+    "answer": "Applications include the production of yogurt (Lactobacillus), beer (Saccharomyces), soy sauce (Aspergillus oryzae), and bread (Saccharomyces)."
+  },
+  {
+    "question": "What are some examples of fermentation in the pharmaceutical sector?",
+    "answer": "Examples include the production of penicillin (Penicillium chrysogenum), insulin (genetically engineered Escherichia coli), and vaccines (CHO cell culture)."
+  },
+  {
+    "question": "How is fermentation utilized for environmental applications?",
+    "answer": "It is used in wastewater treatment through anaerobic digestion to produce biogas and in bioremediation for the microbial degradation of plastics."
+  },
+  {
+    "question": "What is solid-state fermentation (SSF)?",
+    "answer": "SSF is a process where microorganisms grow on a moist solid substrate, like wheat bran, and is commonly used for enzyme production by fungi or in food fermentation."
+  },
+  {
+    "question": "What is the impact of synthetic biology on fermentation?",
+    "answer": "Synthetic biology enables the genetic engineering of microorganisms to produce high-value compounds, such as cultured meat proteins or artemisinin."
+  },
+  {
+    "question": "In ethanol fermentation by Saccharomyces cerevisiae, what is the optimal temperature, and above what temperature is yeast activity significantly inhibited?",
+    "answer": "The optimal temperature is 30-35°C. Temperatures exceeding 40°C lead to a significant reduction (>50%) in yeast growth and ethanol production."
+  },
+  {
+    "question": "For recombinant protein expression in E. coli, what is the typical concentration range for IPTG induction, and what are the consequences of excessively high concentrations?",
+    "answer": "A concentration of 0.1-1.0 mM is commonly used. Concentrations exceeding 2 mM can impose a metabolic burden, leading to issues such as a growth rate reduction of over 30%."
+  },
+  {
+    "question": "In penicillin fermentation, what is the minimum required dissolved oxygen (DO) percentage, and below what level does the yield decrease?",
+    "answer": "DO must be maintained at or above 30% saturation. If the DO level falls below 10%, the penicillin yield can decrease by 40-60%."
+  },
+  {
+    "question": "For lactic acid production via fermentation by Lactobacillus, what is the typical initial glucose concentration (g/L), and what phenomenon occurs at excessively high concentrations?",
+    "answer": "The concentration is typically 80-120 g/L. Concentrations exceeding 150 g/L may cause substrate inhibition, resulting in a 2-4 hour delay in cell growth."
+  },
+  {
+    "question": "In industrial-scale citric acid production by Aspergillus niger, what should the initial pH range be, and below what pH is acid production significantly inhibited?",
+    "answer": "The initial pH should be controlled at 2.5-3.0. If the pH drops below 2.0, citric acid production decreases by more than 50%."
+  },
+  {
+    "question": "During yeast propagation, what is the typical ratio of yeast extract to peptone in YPD medium?",
+    "answer": "The standard formulation is 1% yeast extract + 2% peptone + 2% glucose (w/v)."
+  },
+  {
+    "question": "In glutamic acid production by Corynebacterium glutamicum, what is the typical sugar-to-acid conversion rate?",
+    "answer": "The conversion rate is approximately 50-60%, meaning 1g of glucose can yield 0.5-0.6g of glutamic acid."
+  },
+  {
+    "question": "In alcoholic fermentation, what is the theoretical yield of ethanol from glucose (Y_P/S) for yeast, and what is the actual yield achieved in industrial settings?",
+    "answer": "The theoretical yield is 0.51g of ethanol per gram of glucose. The actual industrial yield is between 0.45-0.48, corresponding to an efficiency of 90-94%."
+  },
+  {
+    "question": "What is the typical titer (volumetric productivity) for antibiotic fermentation, such as Penicillin G?",
+    "answer": "On an industrial scale, titers can reach 50-100 g/L of fermentation broth."
+  },
+  {
+    "question": "For a 5000L fermenter, what is the typical aeration rate in VVM (volume per volume per minute)?",
+    "answer": "For aerobic fermentation, the rate is typically 0.5-1.5 VVM (e.g., 1 VVM = 5000 L of air per minute)."
+  },
+  {
+    "question": "In large-scale fermentation, what is the generally controlled temperature difference between the inlet and outlet of the cooling water?",
+    "answer": "Typically, the temperature difference (ΔT) is maintained at ≤10°C (e.g., inlet at 20°C, outlet at ≤30°C) to prevent localized overheating."
+  },
+  {
+    "question": "What is a typical temperature and time combination for sterilizing fermentation broth?",
+    "answer": "Standard conditions are 121°C for 15-20 minutes or, alternatively, 130°C for 2-5 minutes."
+  },
+  {
+    "question": "If the pH of the fermentation broth unexpectedly drops from 6.5 to 4.0, what concentration of NaOH solution should be added for adjustment?",
+    "answer": "It is recommended to slowly add 2-5 M NaOH, with each adjustment step not exceeding a 0.5 pH unit change."
+  },
+  {
+    "question": "If the dissolved oxygen (DO) in a fermenter suddenly drops below 5%, to what level should the agitation speed be increased from 200 rpm?",
+    "answer": "The speed should be increased stepwise to 300-400 rpm to avoid cell damage from excessive shear force."
+  },
+  {
+    "question": "Is it advisable to terminate the fermentation if the bacterial concentration in a contaminated broth exceeds 10^6 CFU/mL?",
+    "answer": "Yes, termination is necessary, especially for pharmaceutical production. A contaminant level >1% is generally considered a significant contamination event."
+  },
+  {
+    "question": "For industrial yeast fermentation to produce ethanol, what is the approximate glucose consumption per ton of ethanol?",
+    "answer": "Approximately 2.1-2.3 tons of glucose are required, compared to a theoretical value of 1.9 tons, accounting for process losses."
+  },
+  {
+    "question": "What is the approximate cost of producing 1 kg of Vitamin B12 via microbial fermentation?",
+    "answer": "The cost is approximately $800-$1200, which is 3-5 times lower than the cost of chemical synthesis."
+  },
+  {
+    "question": "In high-density fermentation, what is the maximum achievable optical density at 600 nm (OD600) for E. coli?",
+    "answer": "While conventional fermentation reaches an OD600 of ≈50-100, high-density cultivation with fed-batch strategies can achieve an OD600 of 200-300."
+  },
+  {
+    "question": "In solid-state fermentation for cellulase production, what is the typical enzyme activity per gram of dry substrate (e.g., wheat bran)?",
+    "answer": "The activity is typically in the range of 50-200 IU/g of dry substrate (IU = International Unit)."
+  },
+  {
+    "question": "How can the secretion efficiency of a heterologous protein (e.g., insulin) be improved in E. coli through genetic engineering?",
+    "answer": "Secretion can be enhanced by optimizing signal peptides (e.g., PelB), co-expressing molecular chaperones (e.g., GroEL/GroES), and knocking out protease genes (e.g., lon/degP). Some studies report a 3-5 fold increase in yield."
+  },
+  {
+    "question": "Why does Saccharomyces cerevisiae produce glycerol as a byproduct during ethanol fermentation, and how can its formation be suppressed?",
+    "answer": "Glycerol is a byproduct of the NAD+ regeneration pathway. Its production can be reduced by overexpressing NADH oxidase (e.g., NOX) or by limiting the oxygen supply, thereby increasing the ethanol yield."
+  },
+  {
+    "question": "In industrial penicillin fermentation, below what dissolved oxygen (DO) level does the yield significantly decrease?",
+    "answer": "When DO falls below 10% saturation, the penicillin yield decreases by 40-60%. It is crucial to maintain DO at ≥30%."
+  },
+  {
+    "question": "What is the optimal range of water activity (aw) for cellulase production in solid-state fermentation (SSF)?",
+    "answer": "The optimal range is typically 0.70-0.85. A value below 0.60 inhibits mycelial growth, while a value above 0.90 increases the risk of contamination."
+  },
+  {
+    "question": "What is the typical titer for Vitamin B12 production via microbial fermentation?",
+    "answer": "Industrial-scale titers can reach 50-200 mg/L, with a production cost of approximately $800-$1200/kg, which is significantly lower than chemical synthesis."
+  },
+  {
+    "question": "How can lactic acid be efficiently separated from fermentation broth?",
+    "answer": "Common methods include electrodialysis (recovery rate >90%) and crystallization (purity >99%), although the former has higher energy consumption."
+  },
+  {
+    "question": "What are the nutritional limitations of microbial protein (e.g., fungal protein) as a substitute for animal protein?",
+    "answer": "It requires supplementation with sulfur-containing amino acids (e.g., methionine) and has a high nucleic acid content, which necessitates a depurination step."
+  },
+  {
+    "question": "How do bioelectrochemical systems (BES) enhance methane production efficiency in anaerobic sludge digestion?",
+    "answer": "By enriching electrogenic bacteria (e.g., Geobacter) on electrodes, BES promotes direct interspecies electron transfer (DIET), increasing methane production rates by 30-50%."
+  },
+  {
+    "question": "What problems are likely to arise when the OD600 of E. coli exceeds 200 in high-density fermentation?",
+    "answer": "Issues include an increased dissolved oxygen gradient (with DO ≈ 0 in the core region) and acetate accumulation (>5 g/L, which inhibits growth), necessitating fed-batch control."
+  },
+  {
+    "question": "How can codon usage be optimized for recombinant protein production in E. coli?",
+    "answer": "Replacing rare codons with host-preferred codons at a rate of >80% can increase protein expression levels by 3-5 fold."
+  },
+  {
+    "question": "How can high-density culture be achieved in lactic acid bacteria fermentation?",
+    "answer": "Employing a pH-stat fed-batch strategy to maintain the pH at 6.0-6.5 can achieve a cell density of 20-30 g DCW/L."
+  },
+  {
+    "question": "How can the precursor feeding strategy be optimized in penicillin fermentation?",
+    "answer": "A pulsed addition of phenylacetic acid to maintain its concentration between 0.8-1.2 g/L can increase the yield by 25%."
+  },
+  {
+    "question": "How can acetate accumulation be avoided during high-density cultivation?",
+    "answer": "Controlling the specific growth rate to be less than 0.15 h⁻¹ can maintain the acetate concentration below 1 g/L."
+  },
+  {
+    "question": "How can mass transfer efficiency be optimized in solid-state fermentation?",
+    "answer": "Implementing an intermittent mixing strategy (e.g., mixing for 5 minutes every 12 hours) can improve oxygen transfer efficiency by 40%."
+  },
+  {
+    "question": "How can the recovery rate of proteins from fermentation broth be increased?",
+    "answer": "Using a combined flocculation-ultrafiltration technique can achieve a recovery rate of over 95%."
+  },
+  {
+    "question": "How can solvent loss be minimized during antibiotic extraction processes?",
+    "answer": "Employing a counter-current extraction process can achieve a solvent recovery rate of 85-90%."
+  },
+  {
+    "question": "What are the optimal process conditions for extracting microbial lipids?",
+    "answer": "Supercritical CO₂ extraction (35 MPa, 40°C) provides an extraction efficiency of >95%."
+  },
+  {
+    "question": "How can the cost of amino acid production via fermentation be reduced?",
+    "answer": "Using metabolically engineered strains can reduce raw material costs by 30-40%."
+  },
+  {
+    "question": "How can the power density of microbial fuel cells be increased?",
+    "answer": "Using three-dimensional graphene electrodes can increase the power density to 3.5 W/m²."
+  },
+  {
+    "question": "What is the conversion rate for bioplastic production via fermentation?",
+    "answer": "The latest engineered strains can convert glucose to PHB with an efficiency of 0.4 g/g."
+  },
+  {
+    "question": "How can the long-term stability of continuous fermentation be achieved?",
+    "answer": "Using a multi-stage series fermentation system can allow for continuous operation for over 60 days."
+  },
+  {
+    "question": "What is the temperature control strategy for fermentation with extremophilic microorganisms?",
+    "answer": "Using a combined jacket-and-coil temperature control system can limit temperature fluctuations to <±0.5°C."
+  },
+  {
+    "question": "What is the control range for the oxidation-reduction potential (ORP) in anaerobic fermentation?",
+    "answer": "Maintaining the ORP between -200 and -300 mV provides optimal metabolic activity."
+  },
+  {
+    "question": "How can key metabolites in fermentation broth be monitored in real-time?",
+    "answer": "Using online Raman spectroscopy combined with a PLS model allows for detection with an error of <5%."
+  },
+  {
+    "question": "How can contamination be rapidly detected during the fermentation process?",
+    "answer": "Using qPCR technology, contamination levels as low as 10³ CFU/mL can be detected within 2 hours."
+  },
+  {
+    "question": "What is a rapid method for determining cell concentration?",
+    "answer": "Near-infrared spectroscopy allows for measurement in <1 minute with an error of <3%."
+  },
+  {
+    "question": "How can the energy consumption of the fermentation process be reduced?",
+    "answer": "Using heat pump technology to recover fermentation heat can save 30-40% in energy."
+  },
+  {
+    "question": "How can the high-temperature tolerance of yeast be improved through adaptive laboratory evolution?",
+    "answer": "By serially passaging cultures under progressively increasing temperatures (e.g., from 30°C to 40°C), heat-tolerant strains can be selected, improving fermentation efficiency by 15-20%."
+  },
+  {
+    "question": "In E. coli recombinant protein production, how does the IPTG induction concentration affect inclusion body formation?",
+    "answer": "A low concentration (0.1 mM) can reduce inclusion body formation but results in lower expression levels; a high concentration (1 mM) tends to form inclusion bodies, requiring a balance to be optimized."
+  },
+  {
+    "question": "When producing enzymes with filamentous fungi (e.g., Aspergillus niger), how can the spore inoculum size be optimized?",
+    "answer": "An inoculum of 1×10⁶ spores/mL is typically optimal. A higher concentration can lead to excessive mycelial growth, which impairs mass transfer."
+  },
+  {
+    "question": "In protease production by Bacillus subtilis, what is the role of metal ions like Ca²⁺?",
+    "answer": "Ca²⁺ (0.1-0.5 mM) can stabilize the enzyme structure, increasing its activity by 20-30%."
+  },
+  {
+    "question": "During high-density fermentation, how does the feeding strategy affect the growth of E. coli?",
+    "answer": "An exponential feeding strategy can maintain a specific growth rate (μ=0.2 h⁻¹) and prevent acetate accumulation (<2 g/L)."
+  },
+  {
+    "question": "What is the economic viability of substituting glucose with molasses in alcohol fermentation?",
+    "answer": "Molasses is 30-50% cheaper but requires pretreatment (e.g., desulfurization, dilution) to avoid yeast inhibition."
+  },
+  {
+    "question": "In solid-state fermentation (SSF), how is the moisture content of the material controlled?",
+    "answer": "A moisture content of 60-70% is typically optimal. Levels below 50% limit growth, while levels above 80% increase the risk of contamination."
+  },
+  {
+    "question": "What is the optimal timing for adding the precursor phenylacetic acid in penicillin fermentation?",
+    "answer": "Addition during the mid-phase of fermentation (24-48 h) at a concentration of 0.5-1.0 g/L can increase the yield by 20%."
+  },
+  {
+    "question": "In anaerobic digestion for biogas production, how is the hydraulic retention time (HRT) optimized?",
+    "answer": "For mesophilic digestion (35°C), the HRT is 20-30 days, while for thermophilic digestion (55°C), it can be shortened to 15 days."
+  },
+  {
+    "question": "How can microbial lipids be efficiently extracted from fermentation broth?",
+    "answer": "Extraction with an organic solvent (n-hexane) achieves a recovery rate of >90%, but residual solvent must be considered."
+  },
+  {
+    "question": "What is the optimal amount of protectant (e.g., trehalose) to add when spray-drying probiotics?",
+    "answer": "Adding 10-15% trehalose can increase the survival rate to 80-90%."
+  },
+  {
+    "question": "What is the current efficiency of electrodialysis for lactic acid recovery?",
+    "answer": "The efficiency is typically 60-80%, with an energy consumption of about 1.5 kWh/kg of lactic acid."
+  },
+  {
+    "question": "What is the crystallization yield for Vitamin B12 produced by fermentation?",
+    "answer": "Through cooling crystallization, the yield can reach 70-80% with a purity of >98%."
+  },
+  {
+    "question": "What is the production yield of artemisinic acid from yeast modified by synthetic biology?",
+    "answer": "The current highest yield is 25 g/L, but metabolic flux distribution still requires optimization."
+  },
+  {
+    "question": "What is the progress in the microbial fermentation for degrading plastics like PET?",
+    "answer": "Engineered enzymes (e.g., PETase) can degrade 50% of a PET film in 48 hours, but scaling up the process remains challenging."
+  },
+  {
+    "question": "What is the accuracy of online cell density monitoring using capacitance methods, and what are its advantages over the traditional OD600 method?",
+    "answer": "Capacitance methods have an error of <5% and can be sterilized in-place, whereas OD600 requires offline sampling."
+  },
+  {
+    "question": "What is the key parameter for optimizing the carbon source feeding strategy in avermectin fermentation?",
+    "answer": "Correlation analysis determined that controlling the glucose feeding rate at 0.15 g/L/h increased the yield from 3.8 g/L to 5.05 g/L."
+  },
+  {
+    "question": "How can promoter engineering be used to improve the ethanol tolerance of lactic acid bacteria?",
+    "answer": "Overexpressing the AcrR transcription factor can double ethanol tolerance by regulating fatty acid synthesis."
+  },
+  {
+    "question": "How can the yield of the lantibiotic bovicin HJ50 be increased through genetic modification?",
+    "answer": "Optimizing the catalytic domain of its synthesis enzyme, BovM, increased the yield by 40%."
+  },
+  {
+    "question": "What is the optimal combination of protectants for spray-drying probiotics?",
+    "answer": "A combination of trehalose (10%) and skim milk (5%) achieves a survival rate of 85%."
+  },
+  {
+    "question": "How can energy consumption be reduced during lactic acid recovery via electrodialysis?",
+    "answer": "Using a pulsed electric field mode (5s on / 5s off) can reduce energy consumption by 20%."
+  },
+  {
+    "question": "How can the microbial community be optimized in silage fermentation?",
+    "answer": "Adding lactic acid bacteria that produce ferulic acid esterase can improve the fermentation quality by 30%."
+  },
+  {
+    "question": "What are the key quality control points in the microbial fermentation of organic fertilizers?",
+    "answer": "It is necessary to control moisture (50-60%), C/N ratio (25-30), and temperature (45-55°C)."
+  },
+  {
+    "question": "What is the efficiency of mannitol production by lactic acid bacteria modified by synthetic biology?",
+    "answer": "By regulating the adhE gene, a conversion rate of 0.85 g/g of substrate has been achieved."
+  },
+  {
+    "question": "What is the power density bottleneck for microbial fuel cells treating wastewater?",
+    "answer": "The current maximum is about 1.2 W/m³, limited by electrode materials and microbial community activity."
+  },
+  {
+    "question": "What is the energy consumption difference between continuous and batch fermentation?",
+    "answer": "Energy consumption per unit of product is 15-20% lower in continuous fermentation, but the equipment investment is 30% higher."
+  },
+  {
+    "question": "What are the optimal material properties for cellulase production in solid-state fermentation?",
+    "answer": "Enzyme activity is highest with a porosity of 60-65% and a particle size of 1-2 mm."
+  },
+  {
+    "question": "What is the cost structure for microbial lipid production?",
+    "answer": "Raw materials account for 60% of the cost, and supercritical CO₂ extraction accounts for 25%."
+  },
+  {
+    "question": "What are the latest advances in dynamically regulating yeast metabolism using CRISPR-dCas9?",
+    "answer": "Real-time regulation of key genes in the glycolytic pathway has been achieved, increasing product yield by 18%."
+  },
+  {
+    "question": "What is the efficiency bottleneck for engineered bacteria degrading PET plastic?",
+    "answer": "The current degradation rate is about 90% in 72 hours, but the efficiency drops sharply for thicknesses >0.1 mm."
+  },
+  {
+    "question": "How can the CRISPR-dCas9 technology be utilized to dynamically regulate the glycolytic pathway in yeast?",
+    "answer": "Studies show that targeting the promoters of the PFK1 and PK1 genes with sgRNA can increase ethanol yield by 18% while reducing glycerol formation."
+  },
+  {
+    "question": "In the production of 1,3-propanediol by E. coli, how can the glycerol metabolic pathway be optimized?",
+    "answer": "Overexpressing glycerol dehydratase (dhaB) and 1,3-propanediol oxidoreductase (dhaT) can increase the yield from 60 g/L to 85 g/L."
+  },
+  {
+    "question": "In α-amylase production by Bacillus subtilis, how does promoter engineering affect expression levels?",
+    "answer": "Replacing the native promoter with the strong P_hag promoter can increase enzyme activity by 2.5-fold."
+  },
+  {
+    "question": "In high-density cultivation of Pichia pastoris, how does the methanol induction strategy affect foreign protein yield?",
+    "answer": "A gradient induction strategy (0.5% → 1.0% methanol) increases protein yield by 30% compared to a single-step addition."
+  },
+  {
+    "question": "In anaerobic fermentation for butyric acid production, how does pH control affect the product distribution?",
+    "answer": "Maintaining the pH at 6.0-6.5 results in a butyric acid proportion of up to 70%, whereas at pH < 5.5, the proportion of acetic acid increases to 40%."
+  },
+  {
+    "question": "In solid-state fermentation for cellulase production, how does material porosity affect enzyme activity?",
+    "answer": "Enzyme activity is highest at a porosity of 60-65% (~150 U/g). Porosity below 50% limits oxygen transfer."
+  },
+  {
+    "question": "What are the optimized conditions for supercritical CO₂ extraction of microbial lipids?",
+    "answer": "At 35 MPa and 45°C, the extraction efficiency is >95%, but pressures >40 MPa can degrade unsaturated fatty acids."
+  },
+  {
+    "question": "What is the optimized protectant formulation for spray-drying probiotics?",
+    "answer": "A combination of trehalose (10%) and skim milk (5%) results in a survival rate of up to 85%."
+  },
+  {
+    "question": "What is the efficiency of microbial fuel cells (MFCs) in treating brewery wastewater?",
+    "answer": "They can achieve a COD removal rate of >90% while generating a power density of up to 1.2 W/m³."
+  },
+  {
+    "question": "What is the carbon conversion rate for PHA production in Corynebacterium glutamicum engineered via synthetic biology?",
+    "answer": "The engineered strain achieves a glucose-to-PHA conversion rate of 0.3 g/g, a 50% improvement over the wild type."
+  },
+  {
+    "question": "What are the latest advances in the microbial fermentation for degrading PET plastic?",
+    "answer": "An engineered PET hydrolase (ICCG) can degrade 90% of a film (thickness <0.1 mm) in 72 hours."
+  },
+  {
+    "question": "How can bacteriophage contamination be rapidly detected during fermentation?",
+    "answer": "Using qPCR targeting a conserved phage gene (e.g., gp23), the detection limit is 10² PFU/mL."
+  },
+  {
+    "question": "What is the bottleneck in the crystallization yield for Vitamin B12 produced by fermentation?",
+    "answer": "The current industrial-scale yield is only 70-75%, with major losses occurring in the mother liquor."
+  },
+  {
+    "question": "In solid-state fermentation with Aspergillus oryzae, how does the initial moisture content affect protease activity?",
+    "answer": "Studies indicate that protease activity is highest at a moisture content of 60-65% (~150 U/g). Moisture <50% limits mycelial growth, while >70% increases the risk of contamination."
+  },
+  {
+    "question": "What are the optimal pH and temperature for GABA production by lactic acid bacteria fermentation?",
+    "answer": "Under conditions of pH 4.5-5.0 and 30-37°C, GABA yield can reach 5-8 g/L. Outside this range, the yield decreases by more than 30%."
+  },
+  {
+    "question": "How is acetate accumulation controlled in high-density yeast fermentation?",
+    "answer": "Maintaining dissolved oxygen >30% and a specific growth rate <0.15 h⁻¹ can keep the acetate concentration <1 g/L."
+  },
+  {
+    "question": "How can CRISPR technology be used to increase lactic acid production in E. coli?",
+    "answer": "Knocking out the acetic acid synthesis pathway gene (ackA-pta) can increase lactic acid production by 40%."
+  },
+  {
+    "question": "What is the promoter optimization strategy for α-amylase production in Bacillus subtilis?",
+    "answer": "Replacing the native promoter with the strong PamyQ promoter increases enzyme activity by 2.5-fold."
+  },
+  {
+    "question": "What is a genetic engineering method for improving the high-sugar tolerance of Saccharomyces cerevisiae?",
+    "answer": "Overexpressing the HOG1 signaling pathway gene can increase the survival rate in 50% glucose concentration by 3-fold."
+  },
+  {
+    "question": "What is the typical titer for Vitamin B12 production by fermentation?",
+    "answer": "Industrial-scale titers can reach 50-200 mg/L, with a production cost of approximately $800-$1200/kg."
+  },
+  {
+    "question": "How can microbial lipids be efficiently extracted from fermentation broth?",
+    "answer": "Supercritical CO₂ extraction (35 MPa, 45°C) achieves an extraction efficiency of >95%, but pressures >40 MPa can degrade unsaturated fatty acids."
+  },
+  {
+    "question": "What is the feasibility of using Raman spectroscopy for online monitoring of glucose concentration in fermentation broth?",
+    "answer": "Combined with a PLS model, the detection error is <3%, with a response time of <1 minute."
+  },
+  {
+    "question": "What are the cost advantages of continuous fermentation compared to batch fermentation?",
+    "answer": "Equipment utilization is increased by 25%, but the risk of contamination is 3 times higher."
+  }
+]
+  
